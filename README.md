@@ -9,6 +9,7 @@ Bootcamp realizado na Digital Innovation One (DIO) em parceria com o Carrefour. 
 - CSS
 - JavaScript
 - Bootstrap
+- PHP
 - Git
 - Github
 
