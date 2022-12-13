@@ -20,8 +20,6 @@ Bootcamp realizado na Digital Innovation One (DIO) em parceria com o Carrefour. 
 
 [🔗 Módulo - Debuggin e erro Handling Javascript](https://github.com/kennylima/Bootcamp_Carrefour/tree/main/Debuggin%20e%20error%20Handling%20JS)
 
-[🔗 Módulo - Desafio GitHub](https://github.com/kennylima/Bootcamp_Carrefour/tree/main/Desafio-Github-DIO)
-
 [🔗 Módulo - HTML - CSS3](https://github.com/kennylima/Bootcamp_Carrefour/tree/main/HTML-CSS3)
 
 [🔗 Módulo - HTML5](https://github.com/kennylima/Bootcamp_Carrefour/tree/main/HTML5)
